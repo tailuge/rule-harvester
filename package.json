@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "build:dev": "vite build --mode development",
-    "build:docs": "vite build --outDir docs --base /rule-harvester/docs/",
+    "build:docs": "vite build --outDir docs --base ./",
     "lint": "eslint .",
     "preview": "vite preview"
   },
